@@ -1,0 +1,9 @@
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\Newtonsoft.Json.dll
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\Newtonsoft.Json.xml
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\DataAccess.csprojAssemblyReference.cache
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\DataAccess.csproj.CopyComplete
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.pdb

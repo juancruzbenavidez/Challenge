@@ -1,0 +1,17 @@
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ec8353\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\ec8353\Documents\Challenge\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ec8353\Documents\Challenge\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ec8353\Documents\Challenge\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ec8353\Documents\Challenge\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ec8353\Documents\Challenge\ClassLibrary1\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ec8353\Documents\Challenge\ClassLibrary1\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ec8353\Documents\Challenge\ClassLibrary1\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\ec8353\Documents\Challenge\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ec8353\Documents\Challenge\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Employees App";
+}
+
+<div class="jumbotron">
+    <h1>EMPLOYEES APP</h1>
+    <p class="lead">Please type the id of a particular employee or empty for retrieve the information for all the employees.
+    </p>
+    <div class="input-group col-md-12">
+    <div class="input-group-prepend">
+        <span class="input-group-text">ID:</span>
+    </div>
+    <input type="number" class="form-control mr-5" id="idEmployee" name="idEmployee"/>
+    <a href="#" class="btn btn-primary btn-lg" id="btnGetEmployees" name="btnGetEmployees">Get Employees</a>
+</div>
+    
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>Employees</h2>
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">ContractTypeName</th>
+                    <th scope="col">RoleId</th>
+                    <th scope="col">RoleName</th>
+                    <th scope="col">RoleDescription</th>
+                    <th scope="col">HourlySalary</th>
+                    <th scope="col">MonthlySalary</th>
+                    <th scope="col">AnnualSalary</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var employee in Model)
+                { 
+                <tr>
+                    <th>@employee.id</th>
+                    <td>@employee.name</td>
+                    <td>@employee.contractTypeName</td>
+                    <td>@employee.roleId</td>
+                    <td>@employee.roleName</td>
+                    <td>@employee.roleDescription</td>
+                    <td>@employee.hourlySalary</td>
+                    <td>@employee.monthlySalary</td>
+                    <td>@employee.AnnualSalary</td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
